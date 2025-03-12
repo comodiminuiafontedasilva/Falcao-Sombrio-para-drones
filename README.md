@@ -19,13 +19,16 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *<Falacao Negro>*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *<COMO DIMINUI A FONTE>*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+Bruna Soncini Nunes
+Gabriel Nottoli Bucks
+Joao Vitor Rocha Miranda
+Julia Andrade
 
 # Documentação
 
