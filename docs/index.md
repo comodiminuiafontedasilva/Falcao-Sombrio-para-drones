@@ -10,7 +10,7 @@
 
 - [Autores](#nome-alunos)
 - [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Análise de Requisitos Funcionais e Não-Funcionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
@@ -59,7 +59,46 @@ O projeto envolve desafios de sistemas operacionais (tempo real, segurança e co
 banco de dados para suportar as operações críticas dos drones. 
 
 ## Requisitos Funcionais e Não Funcionais
-![Requisitos funcionais e não funcionais](img/requisitos.png)
+### Requisitos Funcionais (O que o sistema deve fazer)
+
+1 → Central de Controle
+
+A interface de gerenciamento de frotas de drones é um requisito funcional porque define uma funcionalidade essencial do sistema: permitir que operadores interajam com os drones. O mesmo vale para o controle remoto e autônomo dos drones e o dashboard de telemetria, pois são ações diretas realizadas pelo sistema para cumprir seu propósito.
+
+2 → Sistema de Navegação Inteligente
+
+O sensoriamento do ambiente por LIDAR, câmeras e GPS, junto com a detecção e evasão de ameaças, são funções essenciais para garantir que os drones operem de forma autônoma e segura. Como esses recursos definem o comportamento esperado dos drones, eles são requisitos funcionais.
+
+3 → Gerenciamento de Comunicação
+
+A comunicação segura e em tempo real entre os drones e a central de controle é uma funcionalidade essencial para garantir o comando e controle remoto. Além disso, a existência de um mecanismo de fallback para evitar perda de conexão assegura que o sistema possa continuar operando mesmo em condições adversas.
+
+4 → Banco de Dados e Auditoria
+
+O armazenamento de logs de missões e eventos críticos permite o rastreamento das operações dos drones, garantindo histórico para auditorias. Como essa funcionalidade é parte do escopo do sistema, ela é um requisito funcional.
+
+5 → Sistemas Embarcados e Segurança
+
+A autenticação de operadores via biometria e autenticação multifator é uma função específica do sistema para garantir acesso seguro. Da mesma forma, o monitoramento do SO embarcado evita falhas operacionais nos drones, tornando-se um requisito funcional do sistema.
+
+### Requisitos Não Funcionais (Como o sistema deve operar)
+
+1 → Desempenho e Confiabilidade
+
+A exigência de minimizar latência e evitar interrupções não define uma função específica do sistema, mas sim um critério de qualidade. Da mesma forma, a implementação de failover automático não é uma funcionalidade isolada, mas sim uma garantia de confiabilidade.
+
+2 → Segurança
+
+A criptografia de ponta e as assinaturas digitais não são ações diretas que o sistema executa para cumprir sua finalidade, mas sim garantias de proteção de dados e resistência a ataques. Os logs de auditoria imutáveis também garantem a segurança, mas não representam uma funcionalidade visível do sistema.
+
+3 → Gerenciamento de Banco de Dados
+
+Garantir a integridade e sincronização dos dados em tempo real não é uma funcionalidade específica, mas sim um critério de qualidade do sistema. O uso de banco de dados distribuído e replicado também não é uma função visível para o usuário, mas sim um requisito que garante a robustez do sistema.
+
+4 → Sistemas Operacionais e Concorrência
+
+O gerenciamento eficiente de múltiplas threads e a priorização de processos são preocupações de desempenho e otimização do sistema. Embora sejam essenciais para o funcionamento do sistema, elas não representam uma funcionalidade específica que o usuário final pode acessar diretamente, tornando-se um requisito não funcional.
+
 
 ## Interfaces do Sistema
 ### Telas e Interações Principais
