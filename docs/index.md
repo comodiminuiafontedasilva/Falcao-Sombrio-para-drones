@@ -52,11 +52,15 @@ Devido a falhas na arquitetura atual, a empresa contratou a **Cyber Bullet Syste
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama de casos de uso](img/casos-de-uso.jpg)
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+## Operador - Militar
+![Descrição de casos de uso do operador](img/descricao-operador.png)
+
+## Administrador
+![Diagrama de casos de uso do militar](img/descricao-administrador.png)
 
 # Diagrama de Sequência
 
