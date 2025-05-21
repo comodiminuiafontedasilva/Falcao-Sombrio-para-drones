@@ -76,7 +76,7 @@ Devido a falhas na arquitetura atual, a empresa contratou a **Cyber Bullet Syste
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Diagrama de Implantação](img/diagrama-de-implantacao.png)
 
 # Referências
 
