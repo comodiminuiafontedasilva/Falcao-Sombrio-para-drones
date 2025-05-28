@@ -68,7 +68,7 @@ Devido a falhas na arquitetura atual, a empresa contratou a **Cyber Bullet Syste
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Diagrama de Classes](img/diagrama-de-classe.png)
 
 # Diagrama de Estados
 
