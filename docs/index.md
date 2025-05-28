@@ -64,7 +64,7 @@ Devido a falhas na arquitetura atual, a empresa contratou a **Cyber Bullet Syste
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Diagrama de Sequência](img/diagrama-de-sequencia.png)
 
 # Diagrama de Classes
 
@@ -72,11 +72,11 @@ Devido a falhas na arquitetura atual, a empresa contratou a **Cyber Bullet Syste
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama de Estados](img/diagrama-de-estados.png)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Diagrama de Implantação](img/diagrama-de-implantacao.png)
 
 # Referências
 
