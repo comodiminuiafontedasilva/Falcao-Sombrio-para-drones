@@ -80,4 +80,15 @@ Devido a falhas na arquitetura atual, a empresa contratou a **Cyber Bullet Syste
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+1. BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. *UML: Guia do Usuário*. 2. ed. Rio de Janeiro: Elsevier, 2006.
+
+2. FOWLER, Martin. *UML Essencial: Um Breve Guia Para a Linguagem Padrão de Modelagem de Objetos*. 3. ed. Porto Alegre: Bookman, 2005.
+
+3. LARMAN, Craig. *Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientados a Objetos e ao Processo Unificado*. 3. ed. Porto Alegre: Bookman, 2007.
+
+4. SOMMERVILLE, Ian. *Engenharia de Software*. 10. ed. São Paulo: Pearson, 2019. Capítulo sobre modelagem UML.
+
+5. OBJECT MANAGEMENT GROUP. *Unified Modeling Language (UML), Version 2.5.1*. Disponível em: [https://www.omg.org/spec/UML/2.5.1](https://www.omg.org/spec/UML/2.5.1). Acesso em: 14 mai. 2025.
+
+6. SILVA, Rodrigo. *Aulas 02 - 15 – Diagramas UML*. Projeto de Software, Bacharelado em Ciência da Computação, Universidade Presbiteriana Mackenzie. 2025. Material da disciplina.
+
